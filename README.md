@@ -27,7 +27,7 @@ http://125.88.27.3:18091/api?encoding=utf8&url=http://www.hkex.com.hk/chi/csm/sc
 
 
 //get request
-var nodegrass = require('nodegrass');
+var nodegrass = require('nodegrass-lite');
 nodegrass.get("https://github.com",function(data,status,headers){
 	console.log(status);
 	console.log(headers);
@@ -37,7 +37,7 @@ nodegrass.get("https://github.com",function(data,status,headers){
 });
 
 //download file
-var nodegrass = require('nodegrass');
+var nodegrass = require('nodegrass-lite');
 nodegrass.getFile('http://www.xxx.com/XXXX.jpg','d:/cccc/yep.jpg',function(e){
 	if(e){
 		console.log(e);
