@@ -50,7 +50,7 @@ nodegrass.getFile('http://www.xxx.com/XXXX.jpg','d:/cccc/yep.jpg',function(e){
 
 (The MIT License)
 
-Copyright (c) 2011-2013 sk &lt;skkmvp@hotmail.com&gt;
+Copyright (c) 2011-2015 sk &lt;jenner.luo@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
