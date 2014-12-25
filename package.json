@@ -1,6 +1,6 @@
 {
   "name" : "nodegrass-lite",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description":"nodegrass is a easy tool to process client request for Node.js",
   "auther": "sk-scottkiss <skkmvp@hotmail.com>, up",
   "contributors": [ "XadillaX <admin@xcoder.in>" ],
