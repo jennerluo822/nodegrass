@@ -1,6 +1,6 @@
 {
   "name" : "nodegrass-lite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description":"nodegrass is a easy tool to process client request for Node.js",
   "auther": "sk-scottkiss <skkmvp@hotmail.com>, up",
   "contributors": [ "XadillaX <admin@xcoder.in>" ],
@@ -15,7 +15,7 @@
     "url": "git://github.com/jennerluo822/nodegrass.git"
   },
   "dependencies" : {
-    "iconv-lite" : "0.4.4"
+    "iconv-lite" : "0.4.5"
   },
   "main" : "index",
   "engines" : {
