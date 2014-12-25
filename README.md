@@ -9,7 +9,7 @@
   
 ## Install
 ```bash
-$ npm install nodegrass
+$ npm install nodegrass-lite
 ```
   
 ## Useage
