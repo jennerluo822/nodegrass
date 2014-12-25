@@ -32,7 +32,7 @@ nodegrass.get("https://github.com",function(data,status,headers){
 	console.log(status);
 	console.log(headers);
 	console.log(data);
-},null,'utf8').on('error', function(e) {
+},null,'utf8').on('error', function(e) {  // or  },null,'big5').on('error', function(e) {
     console.log("Got error: " + e.message);
 });
 
