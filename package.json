@@ -15,7 +15,7 @@
     "url": "git://github.com/scottkiss/nodegrass.git"
   },
   "dependencies" : {
-    "iconv-lite" : "0.2.5"
+    "iconv-lite" : "0.4.4"
   },
   "main" : "index",
   "engines" : {
