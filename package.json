@@ -2,7 +2,7 @@
   "name" : "nodegrass-lite",
   "version": "0.0.2",
   "description":"nodegrass is a easy tool to process client request for Node.js",
-  "auther": "sk-scottkiss <skkmvp@hotmail.com>, up",
+  "auther": "sk-scottkiss <skkmvp@hotmail.com>, jennerluo822 <jenner.luo@gmail.com>",
   "contributors": [ "XadillaX <admin@xcoder.in>" ],
   "keywords": [
     "request",
@@ -12,7 +12,7 @@
   ],
   "repository" : {
     "type": "git",
-    "url": "git://github.com/jennerluo822/nodegrass.git"
+    "url": "git://github.com/jennerluo822/nodegrass-lite.git"
   },
   "dependencies" : {
     "iconv-lite" : "0.4.5"
@@ -22,6 +22,6 @@
     "node": ">= 0.4.1"
   },
   "readme" : "# nodegrass.js - a tool for client request",
-  "_id": "nodegrass@0.0.3",
+  "_id": "nodegrass-lite@0.0.2",
   "license" : "MIT"
 }
