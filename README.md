@@ -1,8 +1,8 @@
 # What's nodegrass-lite
 
 ======
-# Fork nodegrass forked from scottkiss/nodegrass
-# up iconv-lite 0.4.4
+ Fork nodegrass forked from scottkiss/nodegrass
+ up iconv-lite 0.4.4
 
 ======================
 
