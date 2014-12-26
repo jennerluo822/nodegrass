@@ -20,11 +20,11 @@ $ npm install nodegrass-lite
 
 
 var iconv = require('iconv-lite'); 
-注意需要添加 iconv.extendNodeEncodings(); 
-以测试通过：
-http://125.88.27.3:18091/api?encoding=big5&url=http://www.hkex.com.hk/chi/csm/script/tc_QuotaUsage.js?Token=70556 
-http://125.88.27.3:18091/api?encoding=utf8&url=http://www.hkex.com.hk/chi/csm/script/tc_QuotaUsage.js?Token=70556
+iconv.extendNodeEncodings(); 
 
+//以测试通过：
+//http://125.88.27.3:18091/api?encoding=big5&url=http://www.hkex.com.hk/chi/csm/script/tc_QuotaUsage.js?Token=70556 
+//http://125.88.27.3:18091/api?encoding=utf8&url=http://www.hkex.com.hk/chi/csm/script/tc_QuotaUsage.js?Token=70556
 
 //get request
 var nodegrass = require('nodegrass-lite');
